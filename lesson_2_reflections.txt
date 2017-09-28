@@ -1,0 +1,17 @@
+What happens when you initialize a repository? Why do you need to do it?
+Mark the files to track
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area: wait to be marked
+
+How can you use the staging area to make sure you have one commit per logical change?
+Make sure one by one
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Once change the branch of a tree without change master
+
+How do the diagrams help you visualize the branch structure?
+Understand where branched are and what we did on the branch
+
+
+c7bb9a7c5fd24fbfac1b1315d838b0fda41f7a7c 3884eab839af1e82c44267484cf2945a766081f3
